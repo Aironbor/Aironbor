@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aironbor
-- 👀 I’m interested in python, SolidWorks
-- 🌱 I’m currently learning python(SQLite3, telegram bots, django and the same things)
+- 👀 I’m interested in python, C# SolidWorks
+- 🌱 I’m currently learning python(PyQt5, SQLite3, telegram bots, django and the same things) and beginer in C#
 - 💞️ I’m looking to collaborate on everything ^_^
 - 📫 To contact me u can use ivan.metliaev.helper@gmail.com
 
